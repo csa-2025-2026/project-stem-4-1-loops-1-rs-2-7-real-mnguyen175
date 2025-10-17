@@ -12,7 +12,7 @@ public class Main
     while (count <= 25) 
     {
       System.out.println(count);
-      count++; 
+      count += 2; 
     }
   }
 }
